@@ -4,6 +4,8 @@ Laboratorio de nutrición animal: análisis bromatológico, balance, formulació
 
 **Usar la app:** https://fborrasumh.github.io/racionia/
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23675296.svg)](https://doi.org/10.5281/zenodo.23675296)
+
 **Idiomas:** español (por defecto), inglés, portugués; selector en la barra superior (o `?lang=en` / `?lang=pt` en la URL).
 
 ## Qué hace
@@ -45,7 +47,7 @@ ORCID: Fernando Borrás Rocher [0000-0002-5519-4573](https://orcid.org/0000-0002
 
 ## Cómo citar
 
-Borrás Rocher, F. y Balarezo-Urresta, L. (2026). *RacionIA* (v1.0.0) [Software]. (DOI en trámite)
+Borrás Rocher, F. y Balarezo-Urresta, L. (2026). *RacionIA* (v1.0.0) [Software]. DOI: [10.5281/zenodo.23675296](https://doi.org/10.5281/zenodo.23675296)
 
 ## Licencia
 
